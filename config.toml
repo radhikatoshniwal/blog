@@ -1,4 +1,4 @@
-baseURL = "https://radhikat.netlify.app/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Radhika"
 theme="ink"
