@@ -21,7 +21,7 @@ theme="ink"
 
 # Nav.
 [[menu.main]]
-name = "Hme"
+name = "Home"
 url = "/"
 weight = 1
 
