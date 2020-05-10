@@ -7,4 +7,4 @@ tags: []
 
 # It's quarantine season 
 so I thought I'd start a blog. 
-Hope to keep you posted.
+Hope to keep you posted!
