@@ -16,9 +16,4 @@ tags: [gpt2,python,PRAW]
  The 774M model was used as it wasn't too large and did not yield texts that were too obscure and bot-like.
  With only a few lines of code, fairly impressive answers were generated. Here are a few of them:
  
- ![1](../../static/post-1/1.JPG)
- ![2](../../static/post-1/2.JPG)
- ![3](../../static/post-1/3.JPG)
- ![4](../../static/post-1/4.JPG)
- ![5](../../static/post-1/5.JPG)
- ![6](../../static/post-1/6.JPG)
+ ![1](post-1 images/1.JPG)
