@@ -13,4 +13,4 @@ tags: [gpt2,python,PRAW]
  The whole project was done on a google colab notebook that you may find [here](https://github.com/radhikatoshniwal/answer-reddit-  bot/blob/master/answerbot774.ipynb).
  The 774M model was used as it wasn't too large and did not yield texts that were too obscure and bot-like.
  With only a few lines of code, fairly impressive answers were generated. Here are a few of them:
- ![](../../resources/_gen/images/post-1/1.JPG)
+ ![](https://imgur.com/gSUbgXD)
