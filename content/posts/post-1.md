@@ -21,3 +21,6 @@ tags: [gpt2,python,PRAW]
  ![3image](https://i.imgur.com/WlRKc5A.jpg)
  ![4image](https://i.imgur.com/astMPK7.jpg)
  ![5image](https://i.imgur.com/mtU5Awf.jpg)
+ This was a fun project and a lot of people did not realise they were talking to a bot despite the username being a dead giveaway. 
+ You may checkout more comments [here](https://www.reddit.com/user/answer-reddit-bot).
+ 
