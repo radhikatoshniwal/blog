@@ -1,10 +1,7 @@
 ---
-title: "Hello World"
+title: "u/answer-reddit-bot"
 date: 2020-05-01
-description: ""
-tags: []
+description: "a bot that uses the gpt2 language model to answer questions on r/AskReddit"
+tags: [gpt2]
 ---
 
-# It's quarantine season 
-so I thought I'd start a blog. 
-Hope to keep you posted!
