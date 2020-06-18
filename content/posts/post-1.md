@@ -16,4 +16,4 @@ tags: [gpt2,python,PRAW]
  The 774M model was used as it wasn't too large and did not yield texts that were too obscure and bot-like.
  With only a few lines of code, fairly impressive answers were generated. Here are a few of them:
  
- ![1](https://i.imgur.com/aHgVfyK.jpg)
+ ![1image](https://i.imgur.com/aHgVfyK.jpg)
