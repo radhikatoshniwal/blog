@@ -17,3 +17,7 @@ tags: [gpt2,python,PRAW]
  With only a few lines of code, fairly impressive answers were generated. Here are a few of them:
  
  ![1image](https://i.imgur.com/yxXTPBL.jpg)
+ ![2image](https://i.imgur.com/SDAmWCB.jpg)
+ ![3image](https://i.imgur.com/WlRKc5A.jpg)
+ ![4image](https://i.imgur.com/astMPK7.jpg)
+ ![5image](https://i.imgur.com/mtU5Awf.jpg)
