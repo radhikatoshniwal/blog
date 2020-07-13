@@ -7,7 +7,7 @@ tags: [Raspberry Pi]
 ### Step 1: Download the Raspberry Pi OS to an SD hard  
 [Here's](https://www.raspberrypi.org/downloads/) where you'll find it. I used a 16GB card.
 ### Step 2: Set up the Raspberry Pi.
-[Setup](https://i.imgur.com/7eFRgL8.gifv)
+![Setup](https://i.imgur.com/7eFRgL8.gifv)
 You'll need:
 * a USB mouse
 * a USB keyboard
@@ -22,7 +22,7 @@ Go to the terminal and type the following command
 Once installed, 
 > Open Kodi and go to settings > Go to "Service settings" then "Control" > Enable "Allow remote control via HTTP"
 Make sure the "Web interface" is set to "Kodi web interface - Chorus2"
-[KODI config](https://i.imgur.com/e4Qnyc8.jpg)
+![KODI config](https://i.imgur.com/e4Qnyc8.jpg)
 ### Step 5: Add Media
 Store the media you'd like to stream onto a storage device and attach it to the Pi.
 For instance go to "Movies"> Browse the movie you'd like to add.
