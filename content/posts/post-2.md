@@ -9,11 +9,11 @@ tags: [Raspberry Pi]
 ### Step 2: Set up the Raspberry Pi.
 ![Setup](https://www.raspberrypi.org/app/uploads/2018/07/42558525-6dd32c62-84e9-11e8-99d2-0281ffe300c3.gif)
 You'll need:  
-*a USB mouse  
-*a USB keyboard  
-*a display  
-*a router  
-*an ethernet cable to attach the router with  
+* a USB mouse  
+* a USB keyboard  
+* a display  
+* a router  
+* an ethernet cable to attach the router with  
 After inserting the aforementioned devices and the SD card, connect the Pi to a power source. Install the OS (do not install LibreELEC for this project)
 ### Step 3: Install KODI
 Go to the terminal and type the following command:  
