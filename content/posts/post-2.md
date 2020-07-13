@@ -9,14 +9,14 @@ tags: [Raspberry Pi]
 ### Step 2: Set up the Raspberry Pi.
 ![Setup](https://www.raspberrypi.org/app/uploads/2018/07/42558525-6dd32c62-84e9-11e8-99d2-0281ffe300c3.gif)
 You'll need:  
-+ a USB mouse
+* a USB mouse
 * a USB keyboard
 * a display
 * a router
 * an ethernet cable to attach the router with
 After inserting the aforementioned devices and the SD card, connect the Pi to a power source. Install the OS (do not install LibreELEC for this project)
 ### Step 3: Install KODI
-Go to the terminal and type the following command
+Go to the terminal and type the following command:  
 `$	sudo apt get kodi`  
 ### Step 4: Configure KODI
 Once installed, 
@@ -27,13 +27,13 @@ Make sure the "Web interface" is set to "Kodi web interface - Chorus2"
 Store the media you'd like to stream onto a storage device and attach it to the Pi.
 For instance go to "Movies"> Browse the movie you'd like to add.
 ### Step 6: Get a static IP
-Go to the terminal and type
+Go to the terminal and type  
 `sudo nano /etc/dhcpcd.conf`  
 Follow [this](https://thepihut.com/blogs/raspberry-pi-tutorials/how-to-give-your-raspberry-pi-a-static-ip-address-update) comprehensive guide for what to do next.
 ### Step 7: Make the system headless
-Once the router is configured, Go to terminal and type the following command:
+Once the router is configured, Go to terminal and type the following command:  
 `sudo crontab -e`  
-Once the file opens, add the following line to the file:
+Once the file opens, add the following line to the file:  
 `@reboot kodi --standalone`  
 This step makes sure one does not need to setup the Pi each time to use KODI.
 
