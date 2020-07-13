@@ -1,6 +1,6 @@
 ---
 title: "MediaBox"
-date: 2020-07-14
+date: 2020-07-13
 description: "How I made a local network media streaming system using Raspberry Pi 3"
 tags: [Raspberry Pi]
 ---
