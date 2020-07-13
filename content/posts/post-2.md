@@ -8,8 +8,8 @@ tags: [Raspberry Pi]
 [Here's](https://www.raspberrypi.org/downloads/) where you'll find it. I used a 16GB card.
 ### Step 2: Set up the Raspberry Pi.
 ![Setup](https://www.raspberrypi.org/app/uploads/2018/07/42558525-6dd32c62-84e9-11e8-99d2-0281ffe300c3.gif)
-You'll need:
-* a USB mouse
+You'll need:  
++ a USB mouse
 * a USB keyboard
 * a display
 * a router
