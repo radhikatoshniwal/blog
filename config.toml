@@ -45,6 +45,10 @@ name = "Github"
 icon = "github"
 url = "https://github.com/radhikatoshniwal"
 
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/radhika-toshniwal-0287a7149/"
 
 [taxonomies]
    tag = "tags"
