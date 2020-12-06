@@ -4,7 +4,7 @@ title = "Radhika Toshniwal"
 theme="ink"
 
 [params]
-
+    subtitle=""
     # Optional 64x64 avatar image.
    # avatar = "https://i.imgur.com/aHgVfyK.jpg"
 
