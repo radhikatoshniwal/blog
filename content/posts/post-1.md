@@ -19,7 +19,7 @@ I used the 774M model as it wasn't too large and did not yield texts that were t
  ![3image](https://i.imgur.com/WlRKc5A.jpg)
  ![4image](https://i.imgur.com/astMPK7.jpg)
  ![5image](https://i.imgur.com/mtU5Awf.jpg)
- This was a fun little project and a lot of people did not realise they were talking to a bot despite the username being a dead giveaway. People on the internet  would really just engage with anyone(or anything)! 
+ This was a fun little project and a lot of people did not realise they were talking to a bot despite the username being a dead giveaway. People on the internet  would really just engage with anyone(or anything). 
  My account got banned from r/AskReddit but that's okay because such is life!
- You, however, may checkout more comments [here](https://www.reddit.com/user/answer-reddit-bot)!
+ You, however, may checkout more comments [here](https://www.reddit.com/user/answer-reddit-bot)
  
