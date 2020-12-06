@@ -1,8 +1,10 @@
 
 
-
-# Hello!
-## I'm exploring AI and it's related fields through small projects as a way to teach myself.
-## So, here's a blog about them.
-Like something?
-Shoot me a message at toshradhika@gmail.com 
+[Img1](https://imgur.com/HKvYsnO)
+[Img2](https://imgur.com/rJYoUep)
+[Img3](https://imgur.com/zcjWwSe)
+[Img4](https://imgur.com/zdkWTfW)
+[Img5](https://imgur.com/gKmgzwi)
+[Img6](https://imgur.com/VC8mvTs)
+[Img7](https://imgur.com/JHTFh9O)
+[Img8](https://imgur.com/7th5xqO)
