@@ -1,10 +1,9 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Radhika"
+title = "Radhika Toshniwal"
 theme="ink"
 
 [params]
-    subtitle = "pun enthusiast among other things"
 
     # Optional 64x64 avatar image.
    # avatar = "https://i.imgur.com/aHgVfyK.jpg"
