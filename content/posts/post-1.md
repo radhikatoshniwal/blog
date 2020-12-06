@@ -4,16 +4,14 @@ date: 2020-05-01
 description: "a bot that uses the gpt2 language model to answer questions on r/AskReddit"
 tags: [gpt2,python,PRAW]
 ---
- A few days back, I came across the [gpt-2 language model by OpenAI](https://openai.com/blog/better-language-models/)
+ A few days ago, I came across the [gpt-2 language model by OpenAI](https://openai.com/blog/better-language-models/)
  and a very easy to use python package [gpt-2-simple](https://github.com/minimaxir/gpt-2-simple)
- gpt-2-simple allows you to download existing models and finetune them for easy text generation.
- The Python Reddit API Wrapper was used to get the submission titles from the subreddit and post comments on the same.
- Initially, when the bot did not have enough karma, the number of comment submissions through the API was limited to
- 1 every 10 minutes, but as soon as the bot gained enough karma (about 10) the limit was lifted. 
- gpt-2-simple generates text of particular character length, so some string manipulation was done before comment submission. 
- 
- The whole project was done on a google colab notebook that you may find [here](https://github.com/radhikatoshniwal/answer-reddit-bot/blob/master/answerbot774.ipynb).
- The 774M model was used as it wasn't too large and did not yield texts that were too obscure and bot-like.
+ that allows you to download existing models and finetune them for easy text generation.
+ So, I thought it'd be fun to play around with it and see how it'd respond to some of the questions on r/AskReddit. I set up [this](https://www.reddit.com/user/answer-reddit-bot) account and registered my app [here](https://ssl.reddit.com/prefs/apps/) under the same. Be sure to register it as script.
+ I used The Python Reddit API Wrapper to get the submission titles from the subreddit and post comments on the same.
+ Initially, when the bot did not have enough karma, the number of comment submissions through the API was limited but this gets lifted as soon as the account gains about 10 karma.
+The whole project was done on a jupyter notebook that you may find [here](https://github.com/radhikatoshniwal/answer-reddit-bot/blob/master/answerbot774.ipynb).
+I used the 774M model as it wasn't too large and did not yield texts that were too obscure and bot-like.
  With only a few lines of code, fairly impressive answers were generated. Here are a few of them:
  
  ![1image](https://i.imgur.com/yxXTPBL.jpg)
@@ -21,6 +19,7 @@ tags: [gpt2,python,PRAW]
  ![3image](https://i.imgur.com/WlRKc5A.jpg)
  ![4image](https://i.imgur.com/astMPK7.jpg)
  ![5image](https://i.imgur.com/mtU5Awf.jpg)
- This was a fun project and a lot of people did not realise they were talking to a bot despite the username being a dead giveaway. 
- You may checkout more comments [here](https://www.reddit.com/user/answer-reddit-bot).
+ This was a fun little project and a lot of people did not realise they were talking to a bot despite the username being a dead giveaway. People on the internet  would really just engage with anyone(or anything)! 
+ My account got banned from r/AskReddit but that's okay because such is life!
+ You, however, may checkout more comments [here](https://www.reddit.com/user/answer-reddit-bot)!
  
