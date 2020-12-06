@@ -1,10 +1,10 @@
 
 
-![Img1](https://i.imgur.com/HKvYsnO)
-![Img2](https://imgur.com/rJYoUep)
-![Img3](https://imgur.com/zcjWwSe)
-![Img4](https://imgur.com/zdkWTfW)
-![Img5](https://imgur.com/gKmgzwi)
-![Img6](https://imgur.com/VC8mvTs)
-![Img7](https://imgur.com/JHTFh9O)
-![Img8](https://imgur.com/7th5xqO)
+![img1]https://i.imgur.com/HKvYsnO.png
+![Img2](https://i.imgur.com/rJYoUep.png)
+![Img3](https://i.imgur.com/zcjWwSe.png)
+![Img4](https://i.imgur.com/zdkWTfW.png)
+![Img5](https://i.imgur.com/gKmgzwi.png)
+![Img6](https://i.imgur.com/VC8mvTs.png)
+![Img7](https://i.imgur.com/JHTFh9O.png)
+![Img8](https://i.imgur.com/7th5xqO.png)
