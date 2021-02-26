@@ -2,7 +2,7 @@
 title: "somebody-make-this"
 date: 2021-01-30
 description: "a random idea generator"
-tags: [flask,firebase,heroku,html,css]
+tags: [flask,firebase,heroku,html,css,python]
 ---
 ## What is this?\
 [This](http://somebody-make-this.herokuapp.com/) is a random idea generator.\
