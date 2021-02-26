@@ -5,7 +5,7 @@ description: "a random idea generator"
 tags: [flask,firebase,heroku,html,css]
 ---
 ## What is this?\
-A random idea generator.\
+[This](http://somebody-make-this.herokuapp.com/) is a random idea generator.\
 
 ## Why did I make this?\
 I've been an active reddit user (almost too active, seriously though, need to tone down a little) for the past 2 years
@@ -13,8 +13,7 @@ and every now and then I stumble across a new subreddit and I wonder where it ha
 who do not have the time, resources or skills share ideas they think are useful and need to be built. So I decided to scrape 2000 of these ideas and create a random idea generator out of it.\
 I've been wanting to try Flask for a really long time and this project seemed like a simple project to start with.
 
-## How did I make this?\
-Although every step involved many tiny steps + solving a million tiny errors, here's a basic overview of how I did it:\
+## How did I make this? (a basic overview)\
 1. I scraped the subreddit and stored the data in a Firebase. [Here's](https://github.com/radhikatoshniwal/Scraping-Subreddits/blob/main/Scraping_Subreddits.ipynb) the code for it.\
 2. Designed a basic one pager using html+css.\
 3. Created a flask app. I followed the [Flask by Example tutorial](https://realpython.com/flask-by-example-part-1-project-setup/) for this step. \
