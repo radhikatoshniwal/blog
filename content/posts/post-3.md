@@ -11,7 +11,7 @@ tags: [flask,firebase,heroku,html,css,python]
 I've been an active reddit user (almost too active, seriously though, need to tone down a little) for the past 2 years
 and every now and then I stumble across a new subreddit and I wonder where it had been my whole life. One such subreddit was r/SomebodyMakeThis - a community where people 
 who do not have the time, resources or skills share ideas they think are useful and need to be built. So I decided to scrape 2000 of these ideas and create a random idea generator out of it.\
-I've been wanting to try Flask for a really long time and this project seemed like a simple project to start with.
+I've been wanting to try Flask for a really long time and this project seemed like a simple one to start with.
 
 ## How did I make this? (a basic overview)\
 1. I scraped the subreddit and stored the data in a Firebase. [Here's](https://github.com/radhikatoshniwal/Scraping-Subreddits/blob/main/Scraping_Subreddits.ipynb) the code for it.\
