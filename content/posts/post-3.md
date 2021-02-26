@@ -2,7 +2,7 @@
 title: "somebody-make-this"
 date: 2021-01-30
 description: "a random idea generator"
-tags: [flask,firebase,heroku]
+tags: [flask,firebase,heroku,html,css]
 ---
 ## What is this?\
 A random idea generator.\
@@ -14,4 +14,15 @@ who do not have the time, resources or skills share ideas they think are useful 
 I've been wanting to try Flask for a really long time and this project seemed like a simple project to start with.
 
 ## How did I make this?\
-1. I scraped 
+Although every step involved many tiny steps + solving a million tiny errors, here's a basic overview of how I did it:\
+1. I scraped the subreddit and stored the data in a Firebase. [Here's](https://github.com/radhikatoshniwal/Scraping-Subreddits/blob/main/Scraping_Subreddits.ipynb) the code for it.\
+2. Designed a basic one pager using html+css.\
+3. Created a flask app. I followed the [Flask by Example tutorial](https://realpython.com/flask-by-example-part-1-project-setup/) for this step. \
+4. Now, added the one pager HTML file to a 'templates' folder within your working directory and the css file to a 'static' folder.\
+5. In the app.py folder I imported the packages flask, random and firebase-admin. Please please make sure every time you install a package you do it in a virtual environment and keep adding it to your requirements.txt file. It will make your deployment process smoother.\
+6. Added the Firebase API call to my application. Checkout my [html one pager](https://github.com/radhikatoshniwal/somebody-make-this/blob/main/templates/onepager.html) + my [app.py](https://github.com/radhikatoshniwal/somebody-make-this/blob/main/app.py) to see how I did it. 
+7. Deployed it on Heroku and WE DONE HERE. [Follow this for the deployment process](https://devcenter.heroku.com/articles/github-integration).
+
+## What did I learn?\
+1. Notice how I said 'Please please use a virtual environment'. Yes, I learnt the importance of a virtual environment the hard way. Because I didn't use one, I ended up with a bunch of dependencies on my requirements.txt which I had to remove manually :'( \
+2. I also learnt that you can build almost anything you want to because the internet is full of resources. It wasn't much of a revelation but just wanted to put it out there incase you're not starting a project that you always wanted to, just because you aren't very familiar with the tech stack required for the project, yet. I think the best way to learn in to just start and take baby steps as you go. 
