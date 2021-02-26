@@ -24,4 +24,4 @@ I've been wanting to try Flask for a really long time and this project seemed li
 
 ## What did I learn?\
 1. Notice how I said 'Please please use a virtual environment'. Yes, I learnt the importance of a virtual environment the hard way. Because I didn't use one, I ended up with a bunch of dependencies on my requirements.txt which I had to remove manually :'( \
-2. I also learnt that you can build almost anything you want to because the internet is full of resources. It wasn't much of a revelation but just wanted to put it out there incase you're not starting a project that you always wanted to, just because you aren't very familiar with the tech stack required for the project, yet. I think the best way to learn in to just start and take baby steps as you go. 
+2. I also learnt that you can build almost anything you want to because the internet is full of resources. It wasn't much of a revelation but just wanted to put it out there incase you're not starting a project that you always wanted to just because you aren't very familiar with the tech stack required for the project yet. I think the best way to learn in to just start and take baby steps as you go. 
