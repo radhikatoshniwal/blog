@@ -13,20 +13,19 @@ I took some of my favourite scenes from the show and let the machine complete it
 _Moira: Next step is to fold in the cheese.\
 David: What does that mean? What does "fold in the cheese" mean?\
 Moira: You fold it in.\
-David: I understand that, but how? How do you fold it? Do you fold it in half, like a piece of paper, and drop it in the pot, or, what do you do?
-Moira: David, I cannot show you everything.
-Moira: Now I'm going to add the eggs.
-David: What does "add the eggs" mean?
-Moira: Eggs are added.
-David: Eggs are added. So you crack them into the pot?
-Moira: No, you add the eggs.
-David: You add the eggs. You're not cracking them into the pot?
-Moira: No, you add the eggs. David, I'm not going to play twenty questions.
-Moira: Now I'm going to add the flour.
-David: What does "add the flour" mean? 
-Moira: David, I am getting tired of this.
-Moira: And now I'm going to add the vanilla.
-David: What does "add the vanilla" mean?
-Moira: David, just stop it_
-
+David: I understand that, but how? How do you fold it? Do you fold it in half, like a piece of paper, and drop it in the pot, or, what do you do?\
+Moira: David, I cannot show you everything.\
+Moira: Now I'm going to add the eggs.\
+David: What does "add the eggs" mean?\
+Moira: Eggs are added.\
+David: Eggs are added. So you crack them into the pot?\
+Moira: No, you add the eggs.\
+David: You add the eggs. You're not cracking them into the pot?\
+Moira: No, you add the eggs. David, I'm not going to play twenty questions.\
+Moira: Now I'm going to add the flour.\
+David: What does "add the flour" mean? \
+Moira: David, I am getting tired of this.\
+Moira: And now I'm going to add the vanilla.\
+David: What does "add the vanilla" mean?\
+Moira: David, just stop it_\
 
