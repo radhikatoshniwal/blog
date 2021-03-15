@@ -30,7 +30,7 @@ David: What does "add the vanilla" mean?\
 Moira: David, just stop it\_
 
 ### A little more Alexis
-![alexi](https://i.imgur.com/PLMJzfX.gif) 
+![alexi](https://i.imgur.com/ZQUWS5k.gif)\ 
 _I'm a master chef, I'm a little bit jive\
 I'm a little bit nasty even when I'm nice\
 I'm a little bit rock 'n' roll, I'm a little bit soul\
