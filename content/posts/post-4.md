@@ -9,4 +9,4 @@ There are four engines that may be used, namely **davinci (most capable), curie 
 I used davinci with a 0.7 temperature (a setting that essentialy determines the creativity of the generated text, 0.7 will generate fairly creative reponses).
 I took some of my favourite scenes from the show and let the machine complete it. Here they are!\
 ### The iconic "fold in the cheese" scene\
-[img](https://i.imgur.com/a9KYTL4.gif)
+![foldinthecheese](https://i.imgur.com/a9KYTL4.gif)
