@@ -59,6 +59,6 @@ David: It is not!\
 Alexis: Is too!\
 David: Is not!*\
 \
-And that's it! To be fair, I also got some nonsensical texts and got these after about 10 tries but hey, who doesn't mess up the first nine times. I am super excited to explore what else I could do with gpt3 and keep you posted on any more projects I decide to take up! 
+And that's it! To be fair, I also got some nonsensical texts and got these after about 10 tries but hey, who doesn't mess up the first nine times?! I am super excited to explore what else I could do with gpt3 and keep you posted on any more projects I decide to take up! 
 
 
