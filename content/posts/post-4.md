@@ -39,7 +39,7 @@ I'm a little bit Catholic, I'm a little bit Jewish\
 I'm a master chef, I'm a little bit jive\
 I'm a little bit nasty even when I'm nice\
 I'm a little bit rock 'n' roll, I'm a little bit soul\
-I'm a little bit blue if you get me alone*\
+I'm a little bit blue if you get me alone*
 ### Stupid dead Tamagotchi
 ![tamagotchi](https://i.imgur.com/ovoMQyE.jpg)\
 ***David: Because the last time I left you in charge of something... \
