@@ -31,10 +31,10 @@ Moira: David, just stop it*\
 
 ### A little more Alexis
 ![alexis](https://i.imgur.com/ZQUWS5k.gif)\
-*I'm a master chef, I'm a little bit jive\
-I'm a little bit nasty even when I'm nice\
-I'm a little bit rock 'n' roll, I'm a little bit soul\
-I'm a little bit blue if you get me alone\
+*I'm a little bit Beyoncé, I'm a little bit Jay-Z\
+I'm a little bit illegal, I'm a little bit rock n' roll\
+I'm a little bit country, I'm a little bit hip-hop\
+I'm a little bit Catholic, I'm a little bit Jewish\
 \
 I'm a master chef, I'm a little bit jive\
 I'm a little bit nasty even when I'm nice\
