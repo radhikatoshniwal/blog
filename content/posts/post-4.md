@@ -10,12 +10,12 @@ I used davinci with a 0.7 temperature (a setting that essentialy determines the 
 I took some of my favourite scenes from the show and let the machine complete it. Here they are!\
 ### The iconic "fold in the cheese" scene 
 ![foldinthecheese](https://i.imgur.com/a9KYTL4.gif)\
-_**Moira: Next step is to fold in the cheese.\
+***Moira: Next step is to fold in the cheese.\
 David: What does that mean? What does "fold in the cheese" mean?\
 Moira: You fold it in.\
 David: I understand that, but how? How do you fold it? Do you fold it in half, like a piece of paper, and drop it in the pot, or, what do you do?\
-Moira: David, I cannot show you everything.**\
-Moira: Now I'm going to add the eggs.\
+Moira: David, I cannot show you everything.***
+_Moira: Now I'm going to add the eggs.\
 David: What does "add the eggs" mean?\
 Moira: Eggs are added.\
 David: Eggs are added. So you crack them into the pot?\
