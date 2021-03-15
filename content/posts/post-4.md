@@ -48,17 +48,17 @@ Alexis: Ugh! This is about those stupid Tamagotchi?\
 David: Actually it is. \
 Alexis: You left me with six of them, David. Taking care of that many is like a full-time job!\
 David: I left you with six adult Tamagotchis in perfect health! And by the time I came home, they were all dead. You have to like actively murder in order for that to happen***
-*Alexis: You know what? I think it was actually your fault.
-David: My fault?
-Alexis: Yeah, you tell me that the Tamagotchis needed to be taken care of, but you never told me how! You should've given me instructions, like a guide on how to take care of them.
-But David, I don't remember you giving me any instructions.
-David: I did, I told you to take care of them.
-Alexis: That's not an instruction! That's like saying "breathe"!
-David: No, it's not.
-Alexis: Yes, it is!
-David: It is not!
-Alexis: Is too!
-David: Is not!*
+*Alexis: You know what? I think it was actually your fault.\
+David: My fault?\
+Alexis: Yeah, you tell me that the Tamagotchis needed to be taken care of, but you never told me how! You should've given me instructions, like a guide on how to take care of them.\
+But David, I don't remember you giving me any instructions.\
+David: I did, I told you to take care of them.\
+Alexis: That's not an instruction! That's like saying "breathe"!\
+David: No, it's not.\
+Alexis: Yes, it is!\
+David: It is not!\
+Alexis: Is too!\
+David: Is not!*\
 
 To be fair, I also got some nonsensical texts and got these after about 10 tries but hey, who doesn't mess up the first nine times. I am super excited to explore what else I could do with gpt3 and keep you posted on any more projects I decide to take up! 
 
