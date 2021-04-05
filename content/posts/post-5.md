@@ -10,7 +10,4 @@ So I thought I'd be pretty great to write and perform a Hamilton-like song for N
 <iframe width="400" height="300"
 src="https://www.youtube.com/embed/oFSHuLO1pVc">
 </iframe>
-<style>
-	iframe{width:400px; height:300px}
-		</style>
 </html>
