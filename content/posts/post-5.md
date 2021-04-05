@@ -7,7 +7,7 @@ tags: []
 I have been obsessed with Hamilton, the musical for over 3 years now.    
 So I thought I'd be pretty great to write and perform a Hamilton-like song for Netaji Bose - a pretty awesome freedom fighter. Here it is!  
 <html>
-  <div>
+  <div class="video_wrapper">
     <center>
     <iframe style=".video_wrapper {
 position: relative;
