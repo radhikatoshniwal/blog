@@ -9,7 +9,7 @@ So I thought I'd be pretty great to write and perform a Hamilton-like song for N
 <html>
   <div>
     <center>
-    <iframe  
+    <iframe style="width: 100%" 
       src="https://www.youtube.com/embed/oFSHuLO1pVc">
     </iframe>
       </center>
