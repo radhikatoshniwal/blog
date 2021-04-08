@@ -7,7 +7,7 @@ googleAnalytics="UA-192160611-1"
 [params]
     subtitle=""
     # Optional 64x64 avatar image.
-    avatar = "https://i.imgur.com/D5wsoJN.gif"
+    #avatar = "https://i.imgur.com/D5wsoJN.gif"
 
     # Content types to disable Disqus on.
     disableDisqusTypes = ["page"]
