@@ -50,10 +50,7 @@ name = "LinkedIn"
 icon = "linkedin"
 url = "https://www.linkedin.com/in/radhika-toshniwal-0287a7149/"
 
-[[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://twitter.com/acertainradhika"
+
 
 [taxonomies]
    tag = "tags"
