@@ -5,7 +5,7 @@ theme="ink"
 googleAnalytics="UA-192160611-1"
 
 [params]
-    subtitle="my space"
+    subtitle=""
     # Optional 64x64 avatar image.
     avatar = "https://i.imgur.com/D5wsoJN.gif"
 
