@@ -1,11 +1,12 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Radhika"
+title = "Radhika
+Toshniwal"
 theme="ink"
 googleAnalytics="UA-192160611-1"
 
 [params]
-    subtitle="Toshniwal"
+    subtitle=""
     # Optional 64x64 avatar image.
     avatar = "https://i.imgur.com/D5wsoJN.gif"
 
