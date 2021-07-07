@@ -8,6 +8,6 @@ I love rickrolling people. There's something so harmless yet so purely evil abou
 So one fine morning I decided to make a reddit bot that rickrolls anyone who dares to ask for a link in the comments. So I used of my old reddit accounts that already had 127 karma so I don't hit the API limit with every comment.  
 Streamed all the comments from r/all and replied to any comment that had the word 'link' in it.
 Result? See for yourself!  
-![rickroll]https://i.imgur.com/MDhj17a.jpg[/img]  
+![rickroll](https://i.imgur.com/MDhj17a.jpg) 
 However, people hate getting rickrolled as much as I love rickrolling them. I ended up with -17 karma, and 200 subreddit bans but that's ok because it's the journey what matters not the destination!  
 [You may find the code here](https://github.com/radhikatoshniwal/rickrollbot)(click on it, I dare you!)
