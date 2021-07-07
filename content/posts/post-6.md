@@ -9,5 +9,5 @@ So one fine morning I decided to make a reddit bot that rickrolls anyone who dar
 Streamed all the comments from r/all and replied to any comment that had the word 'link' in it.
 Result? See for yourself!  
 ![rickroll](https://i.imgur.com/MDhj17a.jpg) 
-However, people hate getting rickrolled as much as I love rickrolling them. I ended up with -17 karma, and 200 subreddit bans but that's ok because it's the journey what matters not the destination!  
+However, people hate getting rickrolled as much as I love rickrolling them. I ended up with -17 karma, and 200 subreddit bans but that's ok because it's the journey that matters not the destination!  
 [You may find the code here](https://github.com/radhikatoshniwal/rickrollbot)(click on it, I dare you!)
